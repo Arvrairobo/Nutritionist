@@ -27,6 +27,7 @@ router.get('/', function (req, res) {
 	res.json({message: "Yay, it worked!"});
 });
 var recipe = require('./app/routes/recipe')(router);
+var food = require('./app/routes/food')(router);
 
 
 
