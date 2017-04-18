@@ -344,43 +344,43 @@
 		"tags": ["vegetarian",
 		"vegan",
 		"paleo",
-		"low-carb]
+		"low-carb"]
 	},
 	{
-	"ingredient_id": "purpple_cabbage",
-	"name": "PurpleCabbage",
-	"cost": {
-		"price": 1.06,
-		"unit": "pound"
-	},
-	"commonalityFactor": 9,
-	"measurements": {
-		"calories": {
-			"gram": 0.3111,
-			"teaspoon": 0.5833,
-			"whole": 261
+		"ingredient_id": "purple_cabbage",
+		"name": "PurpleCabbage",
+		"cost": {
+			"price": 1.06,
+			"unit": "pound"
 		},
-		"fat": {
-			"gram": 0.0015,
-			"teaspoon": 0.0021,
-			"whole": 1.3
+		"commonalityFactor": 9,
+		"measurements": {
+			"calories": {
+				"gram": 0.3111,
+				"teaspoon": 0.5833,
+				"whole": 261
+			},
+			"fat": {
+				"gram": 0.0015,
+				"teaspoon": 0.0021,
+				"whole": 1.3
+			},
+			"carbs": {
+				"gram": 0.0739,
+				"teaspoon": 0.1458,
+				"whole": 62
+			},
+			"protein": {
+				"gram": 0.0143,
+				"teaspoon": 0.0271,
+				"whole": 12
+			}
 		},
-		"carbs": {
-			"gram": 0.0739,
-			"teaspoon": 0.1458,
-			"whole": 62
-		},
-		"protein": {
-			"gram": 0.0143,
-			"teaspoon": 0.0271,
-			"whole": 12
-		}
-	},
-	"allergies": [],
-	"tags": ["vegetarian",
-	"vegan",
-	"paleo",
-	"low-carb]
+		"allergies": [],
+		"tags": ["vegetarian",
+		"vegan",
+		"paleo",
+		"low-carb"]
 	},
 	{
 		"ingredient_id": "carrot_raw",
@@ -416,12 +416,11 @@
 		"tags": ["vegetarian",
 		"vegan",
 		"paleo",
-		"low-carb]
+		"low-carb"]
 	},
 	{
 		"ingredient_id": "baby_carrot_raw",
-		"name": "BabyCarrot,
-		Raw",
+		"name": "Baby Carrot, Raw",
 		"cost": {
 			"price": 1.45,
 			"unit": "pound"
@@ -453,7 +452,7 @@
 		"tags": ["vegetarian",
 		"vegan",
 		"paleo",
-		"low-carb]
+		"low-carb"]
 	},
 	{
 		"ingredient_id": "carrots_canned",
@@ -489,7 +488,7 @@
 		"tags": ["vegetarian",
 		"vegan",
 		"paleo",
-		"low-carb]
+		"low-carb"]
 	},
 	{
 		"ingredient_id": "green_onion",
@@ -525,7 +524,7 @@
 		"tags": ["vegetarian",
 		"vegan",
 		"paleo",
-		"low-carb]
+		"low-carb"]
 	},
 	{
 		"ingredient_id": "sesame_seed",
