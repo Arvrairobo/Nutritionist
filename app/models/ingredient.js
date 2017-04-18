@@ -1,9 +1,9 @@
 var mongoose = require('mongoose');
 var Schema = mongoose.Schema;
 
-var FoodSchema = new Schema({
+var IngredientSchema = new Schema({
 	name: String,
-	foodId: String,
+	ingredientId: String,
 	cost: {
 		price: Number,
 		unit: String
@@ -35,4 +35,4 @@ var FoodSchema = new Schema({
 	tags: [String]
 });
 
-module.exports = mongoose.model('Food', FoodSchema);
+module.exports = mongoose.model('Ingredient', IngredientSchema);
