@@ -1,6 +1,6 @@
 {
 	"recipes": [{
-		"recipe_id": "turkey_tacos_bowls",
+		"recipeId": "turkey_tacos_bowls",
 		"name": "Turkey Taco Bowls",
 		"url": null,
 		"time": {
@@ -67,7 +67,7 @@
 		"mexican"]
 	},
 	{
-		"recipe_id": "asian_ramen_chicken_chopped_salad",
+		"recipeId": "asian_ramen_chicken_chopped_salad",
 		"name": "Asian Ramen-Chicken Chopped Salad",
 		"url": "http://www.cookingclassy.com/asian-ramen-chicken-chopped-salad/",
 		"time": {

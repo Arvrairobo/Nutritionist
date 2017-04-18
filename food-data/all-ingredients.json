@@ -1,6 +1,6 @@
 {
 	"ingredients": [{
-		"ingredient_id": "chicken_breast",
+		"ingredientId": "chicken_breast",
 		"name": "Chicken Breast",
 		"cost": {
 			"price": 3.18,
@@ -37,7 +37,7 @@
 		"chicken"]
 	},
 	{
-		"ingredient_id": "ground_turkey",
+		"ingredientId": "ground_turkey",
 		"name": "Ground Turkey",
 		"cost": {
 			"price": 3.99,
@@ -72,7 +72,7 @@
 		"no-carb"]
 	},
 	{
-		"ingredient_id": "corn_canned",
+		"ingredientId": "corn_canned",
 		"name": "Corn, Canned",
 		"cost": {
 			"price": 0.07,
@@ -106,7 +106,7 @@
 		"vegetarian"]
 	},
 	{
-		"ingredient_id": "black_beans_canned",
+		"ingredientId": "black_beans_canned",
 		"name": "Black Beans, Canned",
 		"cost": {
 			"price": 0.05,
@@ -140,7 +140,7 @@
 		"vegetarian"]
 	},
 	{
-		"ingredient_id": "taco_seasoning",
+		"ingredientId": "taco_seasoning",
 		"name": "Taco Seasoning",
 		"cost": {
 			"price": 0.98,
@@ -174,7 +174,7 @@
 		"vegetarian"]
 	},
 	{
-		"ingredient_id": "salsa",
+		"ingredientId": "salsa",
 		"name": "Salsa",
 		"cost": {
 			"price": 0.12,
@@ -208,7 +208,7 @@
 		"vegetarian"]
 	},
 	{
-		"ingredient_id": "brown_rice_raw",
+		"ingredientId": "brown_rice_raw",
 		"name": "Brown Rice, Raw",
 		"cost": {
 			"price": 0.10,
@@ -242,7 +242,7 @@
 		"vegetarian"]
 	},
 	{
-		"ingredient_id": "ramen_noodle",
+		"ingredientId": "ramen_noodle",
 		"name": "Ramen Noodle",
 		"cost": {
 			"price": 0.10,
@@ -276,7 +276,7 @@
 		"tags": []
 	},
 	{
-		"ingredient_id": "almonds",
+		"ingredientId": "almonds",
 		"name": "Almonds",
 		"cost": {
 			"price": 0.50,
@@ -311,7 +311,7 @@
 		"paleo"]
 	},
 	{
-		"ingredient_id": "green_cabbage",
+		"ingredientId": "green_cabbage",
 		"name": "Green Cabbage",
 		"cost": {
 			"price": 0.58,
@@ -347,7 +347,7 @@
 		"low-carb"]
 	},
 	{
-		"ingredient_id": "purple_cabbage",
+		"ingredientId": "purple_cabbage",
 		"name": "PurpleCabbage",
 		"cost": {
 			"price": 1.06,
@@ -383,7 +383,7 @@
 		"low-carb"]
 	},
 	{
-		"ingredient_id": "carrot_raw",
+		"ingredientId": "carrot_raw",
 		"name": "Carrot, Raw",
 		"cost": {
 			"price": 0.74,
@@ -419,7 +419,7 @@
 		"low-carb"]
 	},
 	{
-		"ingredient_id": "baby_carrot_raw",
+		"ingredientId": "baby_carrot_raw",
 		"name": "Baby Carrot, Raw",
 		"cost": {
 			"price": 1.45,
@@ -455,7 +455,7 @@
 		"low-carb"]
 	},
 	{
-		"ingredient_id": "carrots_canned",
+		"ingredientId": "carrots_canned",
 		"name": "Carrots, Canned",
 		"cost": {
 			"price": 1.06,
@@ -491,7 +491,7 @@
 		"low-carb"]
 	},
 	{
-		"ingredient_id": "green_onion",
+		"ingredientId": "green_onion",
 		"name": "GreenOnion(akaScallion)",
 		"cost": {
 			"price": 0.22,
@@ -527,7 +527,7 @@
 		"low-carb"]
 	},
 	{
-		"ingredient_id": "sesame_seed",
+		"ingredientId": "sesame_seed",
 		"name": "Sesame Seed",
 		"cost": {
 			"price": 4.00,
@@ -563,7 +563,7 @@
 		"low-carb"]
 	},
 	{
-		"ingredient_id": "olive_oil",
+		"ingredientId": "olive_oil",
 		"name": "Olive Oil",
 		"cost": {
 			"price": 0.25,
@@ -600,7 +600,7 @@
 		"no-carb"]
 	},
 	{
-		"ingredient_id": "apple_cider_vinegar",
+		"ingredientId": "apple_cider_vinegar",
 		"name": "Apple Cider Vinegar",
 		"cost": {
 			"price": 0.20,
@@ -636,7 +636,7 @@
 		"low-carb"]
 	},
 	{
-		"ingredient_id": "sugar",
+		"ingredientId": "sugar",
 		"name": "Sugar",
 		"cost": {
 			"price": 0.65,
@@ -670,7 +670,7 @@
 		"vegan"]
 	},
 	{
-		"ingredient_id": "soy_sauce",
+		"ingredientId": "soy_sauce",
 		"name": "Soy Sauce",
 		"cost": {
 			"price": 0.20,
@@ -705,7 +705,7 @@
 		"low-carb"]
 	},
 	{
-		"ingredient_id": "black_pepper",
+		"ingredientId": "black_pepper",
 		"name": "Black Pepper",
 		"cost": {
 			"price": 1.20,
@@ -741,7 +741,7 @@
 		"paleo"]
 	},
 	{
-		"ingredient_id": "garlic_powder",
+		"ingredientId": "garlic_powder",
 		"name": "Garlic Powder",
 		"cost": {
 			"price": 0.80,
@@ -776,7 +776,7 @@
 		"paleo"]
 	},
 	{
-		"ingredient_id": "onion_powder",
+		"ingredientId": "onion_powder",
 		"name": "Onion Powder",
 		"cost": {
 			"price": 0.80,
@@ -811,7 +811,7 @@
 		"paleo"]
 	},
 	{
-		"ingredient_id": "ginger",
+		"ingredientId": "ginger",
 		"name": "Ginger",
 		"cost": {
 			"price": 2.00,
@@ -847,7 +847,7 @@
 		"low-carb"]
 	},
 	{
-		"ingredient_id": "salt",
+		"ingredientId": "salt",
 		"name": "Salt",
 		"cost": {
 			"price": 0.05,
