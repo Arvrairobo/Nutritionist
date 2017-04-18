@@ -26,8 +26,9 @@ mongoose.connect('mongodb://localhost:27017/Nutrition');
 router.get('/', function (req, res) {
 	res.json({message: "Yay, it worked!"});
 });
+var utility = require('./app/routes/utility')(router);
 var recipe = require('./app/routes/recipe')(router);
-var food = require('./app/routes/food')(router);
+var ingredient = require('./app/routes/ingredient')(router);
 
 
 
